@@ -21,7 +21,7 @@ It presents professional background, technical skills, featured projects, and co
 
 ## Live Website
 
-- **Live URL:** To be added after deployment (Vercel/Netlify)
+- **Live URL:** https://akondi-athreya.github.io/athreya-portfolio/
 
 ## Local Setup and Run
 
