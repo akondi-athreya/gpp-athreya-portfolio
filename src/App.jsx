@@ -427,7 +427,7 @@ function App() {
 
               <div className="hero-visual-col">
                 <motion.div className="hero-portrait" initial={reduceMotion ? {} : { opacity: 0, y: 24 }} animate={reduceMotion ? {} : { opacity: 1, y: 0 }} transition={{ duration: 0.7, ease: 'easeOut', delay: 0.15 }}>
-                  <img src="/picofme.png" alt="Athreya Akondi" width="300" height="360" loading="eager" />
+                  <img src="./picofme.png" alt="Athreya Akondi" width="300" height="360" loading="eager" />
                 </motion.div>
               </div>
             </div>
@@ -438,7 +438,7 @@ function App() {
           <h2>About</h2>
           <div className="about-grid">
             <img
-              src="/picofme (1).png"
+              src="./picofme_1.png"
               alt="Avatar illustration for Athreya Akondi"
               loading="lazy"
               width="240"
